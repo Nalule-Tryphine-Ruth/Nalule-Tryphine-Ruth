@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nalule-Tryphine-Ruth
 - 👀 I’m interested in coding and building cool stuff
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m currently learning python,matlab,c+,html and javascript
+
 - 📫 How to reach me tryphynr@gmail.com
 
 
